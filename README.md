@@ -1,4 +1,4 @@
 # Shopping-Cart
-# This is an Ecommerce Website.
+# This is full stack Ecommerce Website.
 
 https://shopping-cart-end7.onrender.com/
