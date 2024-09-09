@@ -7,7 +7,7 @@
     "start": "node ./index.js",
     "dev": "nodemon ./index.js"
   },
-  "author": "Ravi",
+  "author": "Dhruv",
   "license": "MIT",
   "dependencies": {
     "connect-flash": "^0.1.1",
